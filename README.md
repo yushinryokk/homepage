@@ -7,6 +7,7 @@
 <title>友進緑化　有限会社❘横浜を中心に造園・緑地管理を承っています</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="有進緑化　有限会社❘横浜を中心に造園・緑地管理を承っています">
+<meta name="google-site-verification" content="95HpPxOhT3TRPz4MWFVYtPlgOX4o_PcBz050_e2tfmM" />
 <link rel="stylesheet" href="css/style.css">
 </head>
 
